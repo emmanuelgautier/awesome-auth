@@ -78,3 +78,4 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - other auth list
 * [OAuth code libraries](https://oauth.net/code/)
 * [OIDC code libraries](https://openid.net/developers/libraries/)
+* [cerberauth/awesome-openid-connect](https://github.com/cerberauth/awesome-openid-connect) - A curated list of providers, services, libraries, specs and other resources about OpenID Connect.
